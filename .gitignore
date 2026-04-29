@@ -1,0 +1,32 @@
+# Logs and output files
+*.txt
+*.log
+liquidity_etl_log.txt
+cot_etl_log.txt
+
+# Never commit real credentials
+config_local.py
+*_local.py
+*_secrets.py
+.env
+
+# Power BI files (large binary, does not render on GitHub)
+*.pbix
+*.pbit
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Windows system files
+Thumbs.db
+desktop.ini
+ehthumbs.db
+
+# VS Code
+.vscode/
+
+# Jupyter
+.ipynb_checkpoints/
