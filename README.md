@@ -189,31 +189,13 @@ connecting to local SQL Server.
 
 ```
 market-intelligence-suite/
-├── Liquidity Hub/           # Liquidity regime ETL
-│   ├── liquidity_etl.py
-│   ├── run_liquidity_etl.bat
-│   └── requirements.txt
-├── Macro Inflation Watch/   # Macro regime ETL
-│   ├── macro_etl.py
-│   ├── run_macro_etl.bat
-│   └── requirements.txt
-├── COT Hub/                 # COT positioning ETL
-│   ├── cot_etl.py
-│   ├── run_cot_etl.bat
-│   └── requirements.txt
-├── Sentiment Hub/           # Sentiment ETL
-│   ├── sentiment_etl.py
-│   ├── run_sentiment_etl.bat
-│   └── requirements.txt
-├── DCF Hub/                 # DCF valuation ETL
-│   ├── dcf_etl.py
-│   ├── run_dcf_etl.bat
-│   └── requirements.txt
-├── docs/                    # Dashboard guides and stress tests
-│   └── COT_Dashboard_Guide.docx
-└── skills/                  # Claude AI skills for future builds
-    └── cot-etl-pipeline/
-        └── SKILL.md
+├── Liquidity_Hub/           # Liquidity regime ETL
+├── Macro_Inflation_Watch/   # Macro regime ETL
+├── COT_Hub/                 # COT positioning ETL
+├── Sentiment_Hub/           # Sentiment ETL
+├── DCF_Hub/                 # DCF valuation ETL
+├── docs/                    # Dashboard guides
+└── skills/                  # Claude AI skills
 ```
 
 ---
