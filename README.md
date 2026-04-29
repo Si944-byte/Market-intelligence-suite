@@ -1,5 +1,12 @@
 # Market Intelligence Suite
 
+![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-2019-red?logo=microsoft-sql-server)
+![Power BI](https://img.shields.io/badge/Power%20BI-Desktop%2FService-yellow?logo=powerbi)
+![FRED](https://img.shields.io/badge/Data-FRED%20API-green)
+![CFTC](https://img.shields.io/badge/Data-CFTC.gov-blue)
+![Status](https://img.shields.io/badge/Status-Live%20%26%20Automated-brightgreen)
+
 A personal institutional-grade market intelligence system built for
 systematic futures trading. Five interconnected dashboards covering
 liquidity conditions, macro regime, DCF valuation, market sentiment,
