@@ -195,7 +195,7 @@ market-intelligence-suite/
 ├── Sentiment_Hub/           # Sentiment ETL
 ├── DCF_Hub/                 # DCF valuation ETL
 ├── docs/                    # Dashboard guides
-└── skills/                  # Claude AI skills
+└── skills/                  # Claude AI skills(example)
 ```
 
 ---
