@@ -17,6 +17,8 @@ No third-party BI templates or pre-built connectors.
 ### 1. Liquidity Regime Dashboard
 **Database:** LiquidityRegime | **Refresh:** Saturday 8:00 PM (ETL) | 9:00 PM (Power BI)
 
+<img width="1160" height="811" alt="Screenshot 2026-04-29 140534" src="https://github.com/user-attachments/assets/e99d59f4-660b-4c6d-a2b8-c7a734114062" />
+
 Tracks systemic liquidity conditions via Fed balance sheet decomposition,
 credit spreads, and yield curve. Produces a 0–100 composite gauge and
 Expanding / Neutral / Contracting regime classification.
@@ -62,6 +64,8 @@ Credit & Money Markets · Trading Confluence Panel · Methodology
 ### 2. Macro Regime Dashboard
 **Database:** MacroRegime | **Refresh:** Sunday 5:00 AM (ETL) | 6:00 AM (Power BI)
 
+<img width="1359" height="765" alt="Screenshot 2026-04-29 144726" src="https://github.com/user-attachments/assets/f908b0be-5e20-477a-895d-f8016106631b" />
+
 Tracks the macroeconomic environment across four regime states:
 Expansion, Slowdown, Contraction, Recovery.
 
@@ -75,6 +79,8 @@ Expansion, Slowdown, Contraction, Recovery.
 ### 3. DCF Valuation Dashboard
 **Database:** DCFRegime | **Refresh:** Sunday 5:00 AM (ETL) | 6:00 AM (Power BI)
 
+<img width="1443" height="812" alt="Screenshot 2026-04-29 143031" src="https://github.com/user-attachments/assets/5e5b76c3-323d-4808-8456-3e7884543080" />
+
 Covers all 503 S&P 500 stocks via RapidAPI Yahoo Finance.
 
 - **Framework:** Three Pillars — Valuation & Research Engine, Stress-Testing Engine
@@ -87,6 +93,8 @@ Covers all 503 S&P 500 stocks via RapidAPI Yahoo Finance.
 ### 4. Market Sentiment Dashboard
 **Database:** SentimentRegime | **Refresh:** Saturday 5:30 AM (ETL) | 6:30 AM (Power BI)
 
+<img width="1440" height="812" alt="Screenshot 2026-04-29 144821" src="https://github.com/user-attachments/assets/9a7b888e-6d3b-4101-bae1-ea780fc36884" />
+
 Tracks market crowd psychology across multiple sentiment indicators.
 
 - **Data sources:** CBOE (put/call ratio), CNN Fear & Greed, AAII sentiment survey
@@ -97,6 +105,8 @@ Tracks market crowd psychology across multiple sentiment indicators.
 
 ### 5. COT Positioning Dashboard
 **Database:** COTRegime | **Refresh:** Friday 6:00 PM (ETL) | 7:00 PM (Power BI)
+
+<img width="1282" height="722" alt="Screenshot 2026-04-29 140924" src="https://github.com/user-attachments/assets/f7943f2b-bf74-439d-9620-7d6b7bb98b6b" />
 
 Tracks CFTC Commitment of Traders institutional positioning for 12
 futures markets across Legacy and Disaggregated report formats.
