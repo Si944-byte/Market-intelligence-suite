@@ -162,7 +162,7 @@ producing an Overall Confluence score and Confluence Regime Display.
 | Layer | Technology |
 |-------|-----------|
 | ETL | Python 3 (pandas, requests, pyodbc, numpy, fredapi) |
-| Database | SQL Server 2019 (local instance, DESKTOP-1CRNFTD) |
+| Database | SQL Server 2019 (local instance,) |
 | Visualization | Power BI Desktop + Power BI Service |
 | Automation | Windows Task Scheduler + Personal Gateway |
 | Data Sources | FRED API, RapidAPI (Yahoo Finance), CFTC.gov, CBOE |
